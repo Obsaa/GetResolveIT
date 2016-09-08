@@ -461,6 +461,7 @@ section {
 	border: 1px solid #ddd;
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
+	background-color: white;
 }
 
 .service .icon-holder {
@@ -1023,7 +1024,7 @@ footer .social-footer li:hover a {
 }
 
 .muted {
-	color: #989da0;
+	color: #666666;
 }
 
 .margin-top {
