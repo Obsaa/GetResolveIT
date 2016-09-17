@@ -34,15 +34,18 @@ jQuery(function($) {
 		// Sliders Init
 		$('.owl-schedule').owlCarousel({
 			singleItem: true,
-			pagination: true
+			pagination: true,
+			autoPlay:3000
 		});
 		$('.owl-testimonials').owlCarousel({
 			singleItem: true,
-			pagination: true
+			pagination: true,
+			autoPlay:5000
 		});
 		$('.owl-twitter').owlCarousel({
 			singleItem: true,
-			pagination: true
+			pagination: true,
+			autoPlay:3000
 		});
 
 		// Navbar Init
