@@ -41,6 +41,6 @@ Use it freely but please do not republish, distribute or sell "as-is". [Read mor
 
 ## Misc
 
-Follow us: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
+Follow us: [Twitter](http://www.twitter.com/getresolveit), [Facebook](http://www.facebook.com/pages/getresolveit), [GitHub](https://github.com/getresolveit), 
 
-[© Codrops 2015](http://www.codrops.com)
+[© ResolveIT LLC 2016](http://www.getresolveit.com)
