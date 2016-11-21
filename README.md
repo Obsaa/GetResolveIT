@@ -41,6 +41,6 @@ Use it freely but please do not republish, distribute or sell "as-is". [Read mor
 
 ## Misc
 
-Follow us: [Twitter](http://www.twitter.com/getresolveit), [Facebook](http://www.facebook.com/pages/getresolveit), [GitHub](https://github.com/getresolveit), 
+Follow us: [Twitter](http://www.twitter.com/getresolveit), [Facebook](http://www.facebook.com/getresolveit), [GitHub](https://github.com/getresolveit), 
 
 [© ResolveIT LLC 2016](http://www.getresolveit.com)
