@@ -4,15 +4,11 @@
 
 ## Credits 
 
-"Cardio" is a one page website template made by [PHIr](http://www.phir.co/) exclusively for Codrops.
-
-[Download on Codrops](http://tympanus.net/codrops/?p=24301)
-
-[Demo](http://tympanus.net/Freebies/Cardio/)
+Based on "Cardio" one page website template made by [PHIr](http://www.phir.co/).
 
 ## License
 
-Use it freely but please do not republish, distribute or sell "as-is". [Read more about our license.](http://tympanus.net/codrops/licensing/)
+Use it freely but please do not republish, distribute or sell "as-is". [Read more about our license.]
 
 ### Bootstrap
 
